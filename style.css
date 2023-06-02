@@ -38,6 +38,15 @@ li{
     font-weight: normal;
 }
 
+span {
+    font-size:16px; 
+    font-style: italic; 
+    margin-top:20px; 
+    padding-left:40px;
+    padding-right:40px; 
+    display:inline-block;
+}
+
 .sidenav {
     height:  calc(100% - 66px);
     /* height: 100vh; */
