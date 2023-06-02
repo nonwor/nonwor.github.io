@@ -89,3 +89,8 @@ span {
 .firstItem{
     margin-top: 6px;
 }
+
+.detailed-info{
+    margin-left: 30px;
+    margin-right: 30px;
+}
