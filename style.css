@@ -35,7 +35,7 @@ main{
 
 li{
     margin-bottom: 5px;
-    margin-left: 30px;
+    margin-left: 40px;
     font-weight: normal;
 }
 
@@ -61,21 +61,20 @@ span {
     padding-top: 20px;
     vertical-align: middle;
     overflow: hidden;
-  }
+}
   
-  .sidenav a {
+.sidenav a {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 20px;
     color: #818181;
     display: block;
     font-family: sans-serif;
-
-  }
+}
   
-  .sidenav a:hover {
+.sidenav a:hover {
     color: #f1f1f1;
-  }
+}
 
 .intro{
     margin-left: 20px;
@@ -86,6 +85,9 @@ span {
     border-radius: 10px;
 }
 
+ul{
+    padding-left: 0px;
+}
 .firstItem{
     margin-top: 6px;
 }
